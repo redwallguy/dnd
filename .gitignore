@@ -1,4 +1,4 @@
 *.key
 *.pub
 *.txt
-
+*.DS_Store
