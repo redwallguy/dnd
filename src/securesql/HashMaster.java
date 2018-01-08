@@ -10,6 +10,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 import java.util.Random;
+import java.io.*;
 
 /**
  *
@@ -17,7 +18,20 @@ import java.util.Random;
  */
 public class HashMaster {
     MessageDigest md;
-    private final String pepper = "kj435kjkskb3ddP4"; //Pepper value for hashing
+    String pepper="";
+    public HashMaster() throws FileNotFoundException, IOException {
+        try(FileReader freader = new FileReader("pepper.txt");
+        BufferedReader breader = new BufferedReader(freader);) {
+            String message = "";
+            String line;
+            while ((line = breader.readLine()) != null) {
+                message += line;
+        }
+        if (!message.equalsIgnoreCase("")) {
+            pepper=message;
+        }
+    } //Pepper value for hashing
+   }
     
     /**
      * Hashes a password using S&P method
