@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/test/securitytests/SecurityTests.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/Adventure.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/Party.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/DnDChar.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/User.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/DnDsql.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/test/sqltests/SQLTests.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/DnDCharWithSQL.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/securesql/TokenMaster.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/DM.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/securesql/HashMaster.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/Info.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/runserver/dndMainRun.java</file>
+            <file>file:/Users/vibhusomeshwar/DesktopDir/Programming/DndServer/src/dndbase/Player.java</file>
+        </group>
+    </open-files>
+</project-private>
